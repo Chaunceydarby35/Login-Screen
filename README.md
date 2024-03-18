@@ -22,9 +22,6 @@ This project features a stylish CSS login screen design that can be integrated i
 2. Make enhancements or additions to the CSS login screen.
 3. Submit a pull request with details of your changes for review.
 
-### License:
-This project is licensed under the MIT License. Refer to the LICENSE file for more information.
-
 ### Contact:
 For inquiries, feedback, or support, you can contact us via email at Chaunceydrb@gmail.com.
 
